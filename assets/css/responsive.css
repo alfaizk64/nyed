@@ -1,0 +1,390 @@
+@media screen and (min-width: 320px) and (max-width: 576px) {
+  .main_header .top_header .center_logo {
+    display: none;
+  }
+
+  .main_header .top_header .left_arrow {
+    padding-right: 0;
+    clip-path: unset;
+    justify-content: center;
+  }
+  .main_header .top_header .right_arrow {
+    clip-path: unset;
+    justify-content: center;
+    align-items: center;
+    padding-left: 0;
+  }
+  .nyed_nav_section {
+    display: none;
+  }
+  /* toogle menu */
+
+
+ 
+
+  /*  */
+  .toogle_menu{
+    display: block;
+  }
+  .nyde_slider .nyde_slider_img .nyde_slider_text {
+    padding: 25px 0 35px 16px;
+  }
+  .nyde_slider .nyde_slider_img .nyde_slider_text .nyde_slider_text_first {
+    font-size: 20px;
+  }
+  .nyde_slider .nyde_slider_img .nyde_slider_text .nyde_slider_text_second {
+    font-size: 16px;
+  }
+
+  .nyde_slider .nyde_slider_img .owl-dots {
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+  }
+
+  .nyde_slider .nyde_slider_img .owl-carousel button.owl-dot {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50px;
+    margin: 0 12px;
+  }
+  .nyde_slider .nyde_slider_img .owl-carousel .owl-dot.active {
+    background-color: #005cb8;
+  }
+  .nyde_slider .nyde_slider_img .nyde_slider_text .btn_explore {
+    padding: 14px 25px;
+  }
+  .nyde_slider .nyde_slider_img .nyde_slider_text .btn_contact {
+    padding: 14px 25px;
+  }
+  .nyde_about_section .nyde_about .lines .line4::after {
+    width: 131px;
+  }
+  .nyde_about_section .about_sec_desc h1 {
+    text-align: center;
+  }
+
+  .nyde_about_section .about_sec_img {
+    padding: 20px 0 0 0;
+    display: block;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+  }
+
+  .nyde_services_section .nyde_our_section .lines .line4::after {
+    width: 131px;
+  }
+  .nyde_our_work_section .nyde_our_work .lines .line4::after {
+    width: 131px;
+  }
+  .img_gallery_section .img_gllery .img_wrapper {
+    width: 100%;
+  }
+  .our_team_section .our_team .lines .line4::after {
+    width: 131px;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par {
+    font-size: 14px;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par::before,
+  .slider_testimonial_section .slider_testimonial .testimonial_par::after {
+    display: none;
+  }
+
+  .slider_testimonial_section .nyde_slider_testimonial .owl-dots {
+    position: relative;
+    text-align: center;
+  }
+  .slider_testimonial_section .owl-carousel button.owl-dot {
+    background-color: #005cb8;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    margin: 0 12px;
+  }
+  .slider_testimonial_section .owl-carousel .owl-dot.active {
+    width: 45px;
+  }
+  .nyde_footer_section {
+    padding-top: 30px;
+  }
+  .nyde_counter_section .counter_nyde .counter_plus::after {
+    top: 4px;
+    left: 48px;
+  }
+  .nyde_counter_section .counter_nyde .Satisfaction_percentage::after {
+    bottom: 0px;
+    left: 45px;
+  }
+  .nyde_footer_section .footer_nyde .address_nyde .add_appointment {
+    padding-left: 70px;
+    margin: auto;
+    max-width: 290px;
+  }
+
+  .nyde_footer_section .footer_nyde .phn_no {
+    width: 176px;
+    padding-top: 0;
+  }
+  .nyde_footer_section .footer_nyde .phn_no p {
+    margin-bottom: 10px;
+  }
+  .back_to_top .circle {
+    top: -126px;
+    right: 1px;
+  }
+  .nyde_footer_section .footer_nyde .social ul {
+    gap: 15px;
+    padding: 0;
+    padding-left: 18px;
+    justify-content: center;
+  }
+  .quote_section .quote_content {
+    text-align: center;
+    margin: auto;
+    max-width: 500px;
+  }
+  .nav_footer {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+    .toogle_menu{
+        display: block;
+      }
+    .col-md-4.col-lg-5.left_arrow {
+    width: 50%;
+  }
+  .col-md-4.col-lg-5.right_arrow {
+    width: 50%;
+  }
+  .main_header .top_header .left_arrow {
+    clip-path: unset;
+    justify-content: center;
+    padding: 0 0 0 16px;
+  }
+
+  .main_header .top_header .center_logo {
+    display: none;
+  }
+  .main_header .top_header .right_arrow {
+    clip-path: unset;
+    justify-content: center;
+    padding: 7px 0 0 0;
+  }
+
+  /* nyde slider first  */
+  .nyde_slider .nyde_slider_img .nyde_slider_text {
+    padding: 36px 0 36px 16px;
+  }
+  .nyde_slider .nyde_slider_img .owl-dots {
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+  }
+
+  .nyde_slider .nyde_slider_img .owl-carousel button.owl-dot {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50px;
+    margin: 0 12px;
+  }
+  .nyde_slider .nyde_slider_img .owl-carousel .owl-dot.active {
+    background-color: #005cb8;
+  }
+
+  .nyde_about_section .about_sec_img {
+    margin: auto;
+    padding: 25px 0 0 0;
+    max-width: 476px;
+  }
+  /* nyde quote section */
+
+  .quote_section .quote_content {
+    text-align: center;
+  }
+
+  /* image gallery */
+  .img_gallery_section .img_gllery .img_wrapper {
+    width: 100%;
+  }
+
+  /* counterr */
+  .nyde_counter_section .counter_nyde .counter_plus::after {
+    left: 55px;
+    top: 6px;
+  }
+
+  .nyde_counter_section .counter_nyde .Satisfaction_percentage::after {
+    bottom: 2px;
+    left: 50px;
+  }
+  /*  testimonial */
+  .slider_testimonial_section {
+    padding: 50px 0 25px 0;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par::after,
+  .slider_testimonial_section .slider_testimonial .testimonial_par::before {
+    display: none;
+  }
+
+  .slider_testimonial_section .nyde_slider_testimonial .owl-dots {
+    position: relative;
+    text-align: center;
+  }
+  .slider_testimonial_section .owl-carousel button.owl-dot {
+    background-color: #005cb8;
+    width: 15px;
+    height: 15px;
+    border-radius: 50px;
+    margin: 0 12px;
+  }
+  .slider_testimonial_section .owl-carousel .owl-dot.active {
+    width: 45px;
+  }
+
+  /* nyde footer  */
+  .nyde_footer_section {
+    padding: 30px 0 0 0;
+  }
+  .nyde_footer_section .footer_nyde .address_nyde .add_appointment {
+    padding-top: 38px;
+    max-width: 279px;
+    margin: auto;
+  }
+
+  .nyde_footer_section .footer_nyde .phn_no {
+    padding: 0;
+    margin: auto;
+    max-width: 94px;
+  }
+  .nyde_footer_section .footer_nyde .phn_no .n_phn {
+    margin-bottom: 10px;
+  }
+  .nyde_footer_section .footer_nyde .phn_no p {
+    margin: 0;
+  }
+  .nyde_footer_section .footer_nyde .social ul {
+    justify-content: center;
+  }
+  .back_to_top .circle {
+    top: -95px;
+    right: 9px;
+  }
+  /* nyed_nav_section */
+  .nyed_nav_section,
+  .nav_footer {
+    display: none;
+  }
+}
+/*    media screen 766 */
+
+@media screen and (min-width: 769px) and (max-width: 991px) {
+  
+    .main_header .top_header .left_arrow {
+    clip-path: unset;
+    padding-right: 7px;
+  }
+  .main_header .top_header .right_arrow {
+    clip-path: unset;
+    padding-left: 40px;
+  }
+  .nyed_nav_section .nyed_nav_list ul {
+    justify-content: space-evenly;
+    gap: 35px;
+  }
+  .nyde_slider .nyde_slider_img .nyde_slider_text {
+    padding: 54px 0 15px 43px;
+  }
+  .nyde_slider .nyde_slider_img .owl-dots {
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+  }
+
+  .nyde_slider .nyde_slider_img .owl-carousel button.owl-dot {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50px;
+    margin: 0 12px;
+  }
+  .nyde_slider .nyde_slider_img .owl-carousel .owl-dot.active {
+    background-color: #005cb8;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par {
+    max-width: 551px;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par::after {
+    right: -50px;
+  }
+  .nyde_footer_section .footer_nyde .phn_no {
+    padding-top: 0;
+    max-width: 255px;
+    margin: 0;
+  }
+  .nyde_footer_section .footer_nyde .phn_no p {
+    margin-bottom: 0;
+  }
+
+  .nyde_footer_section .footer_nyde .social {
+    max-width: 262px;
+    padding: 0;
+    margin: 0;
+  }
+  .back_to_top .circle {
+    top: -129px;
+    right: 48px;
+  }
+}
+@media screen and (min-width: 991px) and (max-width: 1024px) {
+  .main_header .top_header .left_arrow {
+    padding-right: 75px;
+  }
+  .main_header .top_header .right_arrow {
+    padding-left: 100px;
+  }
+  .nyde_slider .nyde_slider_img .owl-dots {
+    position: relative;
+    text-align: center;
+    bottom: 20px;
+  }
+
+  .nyde_slider .nyde_slider_img .owl-carousel button.owl-dot {
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    border-radius: 50px;
+    margin: 0 12px;
+  }
+  .nyde_slider .nyde_slider_img .owl-carousel .owl-dot.active {
+    background-color: #005cb8;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par {
+    max-width: 643px;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par::before {
+    left: -9px;
+  }
+  .slider_testimonial_section .slider_testimonial .testimonial_par::after {
+    right: -5px;
+  }
+  .nyde_slider_testimonial .owl-nav .owl-next{
+    right: 91px;
+  }
+  .nyde_footer_section .footer_nyde .phn_no {
+  padding: 0 0 0 43px;
+  }
+ 
+  .nyde_footer_section .footer_nyde .social {
+    padding: 0;
+  }
+  .back_to_top .circle {
+    top: -129px;
+    right: 48px;
+  }
+}
