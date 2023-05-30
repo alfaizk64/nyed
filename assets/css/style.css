@@ -236,7 +236,7 @@ position: absolute;
   padding: 0;
 }
 .nyde_slider .nyde_slider_img {
-  background-image: url(/assets/image/banner.jpg);
+  background-image: url(assets/image/banner.jpg);
   background-size: cover;
   background-position: inherit;
   background-repeat: no-repeat;
